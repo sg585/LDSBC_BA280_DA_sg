@@ -1,0 +1,57 @@
+/*****************************************************************************************************************
+NAME:    Power BI - Support for Connect to Database - Access error
+PURPOSE: Resolve an Access database connection error
+
+SUPPORT: Jaussi Consulting LLC
+         www.jaussiconsulting.net
+         jon@jaussiconsulting.net
+
+MODIFICATION LOG:
+Ver       Date         Author       Description
+-------   ----------   ----------   -----------------------------------------------------------------------------
+1.0       01/20/2020   JJAUSSI      1. Built this file
+
+
+RUNTIME: 
+5 min
+
+NOTES: 
+In reference to this Linked In Learning movie...
+https://www.linkedin.com/learning/learning-microsoft-power-bi-desktop-2/connect-to-a-database-access?u=54864305
+
+
+In reference to this error...
+https://docs.microsoft.com/en-us/power-bi/desktop-access-database-errors
+
+This is the solution I used...
+
+Solution 4
+If the previous three solutions are not feasible, it's possible to install both versions of the Access Database Engine. However, this workaround isn't recommended. Although installing both versions will resolve this issue for Power Query for Excel and Power BI Desktop, it will introduce errors and issues for any application that automatically (by default) uses the bit-version of the Access Database Engine that was installed first.
+
+To install both bit-versions of the Access Database Engine, follow these steps:
+
+Install both bit-versions of the Access Database Engine from the download page.
+
+Run each version of the Access Database Engine by using the /passive switch. For example:
+
+
+This is the download page...
+https://www.microsoft.com/en-us/download/details.aspx?id=13255
+
+These are the executables...
+ace2016-kb4484198-fullfile-x86-glb.exe
+ace2016-kb4484198-fullfile-x64-glb.exe
+
+These are the commands...
+C:\Users\MyUserName\Downloads\AccessDatabaseEngine.exe /passive
+C:\Users\MyUserName\Downloads\AccessDatabaseEngine_x64.exe /passive
+
+
+
+LICENSE: 
+This code is covered by the GNU General Public License which guarantees end users
+the freedom to run, study, share, and modify the code. This license grants the recipients
+of the code the rights of the Free Software Definition. All derivative work can only be
+distributed under the same license terms.
+
+******************************************************************************************************************/
