@@ -3109,11 +3109,11 @@
         <TopRegexPatterns>
           <PatternDistributionItem>
             <RegexText>CONVENTIONAL</RegexText>
-            <Frequency>49</Frequency>
+            <Frequency>51</Frequency>
           </PatternDistributionItem>
           <PatternDistributionItem>
             <RegexText>ORGANIC</RegexText>
-            <Frequency>51</Frequency>
+            <Frequency>49</Frequency>
           </PatternDistributionItem>
         </TopRegexPatterns>
       </ColumnPatternProfile>
@@ -5201,11 +5201,11 @@
         <TopRegexPatterns>
           <PatternDistributionItem>
             <RegexText>CONVENTIONAL</RegexText>
-            <Frequency>49</Frequency>
+            <Frequency>50</Frequency>
           </PatternDistributionItem>
           <PatternDistributionItem>
             <RegexText>ORGANIC</RegexText>
-            <Frequency>51</Frequency>
+            <Frequency>50</Frequency>
           </PatternDistributionItem>
         </TopRegexPatterns>
       </ColumnPatternProfile>
