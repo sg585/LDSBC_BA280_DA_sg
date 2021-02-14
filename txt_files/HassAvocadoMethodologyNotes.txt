@@ -1,0 +1,25 @@
+Methodology
+
+1. Use the hassavocadoboard.com/report as a reference to find the regions 
+1b. Not all states are part of a region
+1c. A reference table 'Loc_State_Region' created to have all 50 states with region they belong to based on board map and 'none' listed for states not included
+1d. MD shown listed in two regions, but the map highlight shows MD part of NE and not in MS as listed
+2. dbo.avocado table contains a mix of granularity for city/state/region 
+3. A reference table 'Loc_Reference' created to indicate YN for region 
+3a. Reference table was updated for lat long locations using Google maps where the dots were located on the board report and where the city was centered
+3b. Where the city/state was more than one location, a Google maps distance line was drawn between the locations and a midpoint pin was used for the lat long
+3c. A related 'default' state was listed for each 'region' in the dbo.avocado table using the location selected for the lat long
+3d. The total US location was listed in the center of the continental states
+4.Default City and State added to reference table 'Loc_Reference'
+4a. The city and state for regions based on the dot on hass board map
+4b. California city = picked capital of state
+
+Basic Observations
+Small Bags + Large Bags + XLarge Bags = Total Bags
+(no medium size)
+
+4046+4225+4770+Total Bags = Total Volume
+
+
+
+
