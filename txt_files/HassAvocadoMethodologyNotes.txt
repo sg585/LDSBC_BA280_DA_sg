@@ -13,6 +13,10 @@ Methodology
 4.Default City and State added to reference table 'Loc_Reference'
 4a. The city and state for regions based on the dot on hass board map
 4b. California city = picked capital of state
+5 What states are in Northern New England?
+	https://en.wikipedia.org/wiki/New_England
+	Includes 6 states: CT, ME, MA, NH, RI, VT
+	the northern 3 are: ME,NH,VT
 
 Basic Observations
 Small Bags + Large Bags + XLarge Bags = Total Bags
