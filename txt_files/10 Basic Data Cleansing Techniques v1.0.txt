@@ -1,0 +1,124 @@
+Q1: How to split text into lines?
+A1: Sublime Text has several methods
+
+Method 1: Small scale, precise
+1) Highlight the first space
+2) Ctrl+D and repeat until all selected
+3) Enter
+
+
+Method 2: Larger scale, minimal complexity, all at once
+
+1) Highlight the first space
+2) Alt+F3 (Select all occurrences of the current selection)
+3) Enter
+
+
+Method 3: Larger scale, minimal complexity, all at once using a Regular Expression
+Use this website to learn Regular Expressions
+https://regexr.com/
+
+1) Ctrl + H (Replace)
+2) Alt + R (Enable the Regular Expression match) 
+3) Replace all on " " to "\n"
+
+
+Method 4: Very large scale, significant complexity
+Use T-SQL and a table valued function
+
+SELECT *
+  FROM dbo.udtvf_split_string('Lorem ipsum dolor sit amet, consectetur adipiscing elit');
+
+
+
+Q2: How to select multiple lines?
+A2: Sublime Text makes this simple
+
+1) Highlight your lines
+2) Ctrl + Shift + L
+
+
+
+Q3: How to select every Nth line?
+A3: Adapted from this post...
+https://stackoverflow.com/questions/15598584/how-can-i-select-every-other-line-with-multiple-cursors-in-sublime-text/16273692#16273692
+
+1) Find: Ctrl+F
+2) If regular expressions are not already enabled, enable them: Alt+R
+3) Type in the expression 
+Every second line (.*(\n|$)){2}
+Every tenth line (.*(\n|$)){10}
+4) Find all: Alt+Enter
+5) Press left arrow to get rid of the selections, leaving just the cursors: ←
+6) You now have a cursor at the start of every odd-numbered line. If you wanted even-numbered lines, press down: ↓
+
+
+
+Q4: How to remove certain types of characters from text?
+A4: It depends on scale and complexity
+
+Smaller scale and minimal complexity: Sublime Text and a regular expression
+
+Generate random strings:
+http://www.unit-conversion.info/texttools/random-string-generator/
+
+1) Replace: Ctrl+H
+2) If regular expressions are not already enabled, enable them: Alt+R
+3) Type in the expression
+
+Remove all non-alphanumeric characters and keep spaces
+[^A-Za-z0-9 ]
+
+Remove all non-alpha characters and keep spaces
+[^A-Za-z ]
+
+Remove all non-numeric characters and keep spaces
+[^0-9 ]
+
+Larger scale and more complexity: T-SQL
+SELECT dbo.udf_strip_non_alpha ('GYq7<0sMj&"Rn9fhSxnfWpAN/"202u@gTQao>?r UwT\Cv#a!R');
+SELECT dbo.udf_strip_non_alpha_numeric ('GYq7<0sMj&"Rn9fhSxnfWpAN/"202u@gTQao>?r UwT\Cv#a!R');
+SELECT dbo.udf_strip_non_alpha_numeric_keep_spaces ('GYq7<0sMj&"Rn9fhSxnfWpAN/"202u@gTQao>?r UwT\Cv#a!R');
+SELECT dbo.udf_strip_non_numeric ('GYq7<0sMj&"Rn9fhSxnfWpAN/"202u@gTQao>?r UwT\Cv#a!R');
+
+
+
+Q5: How to return the user requested Nth element from a string with a user specified delimiter?
+A5: This kind of complexity is a good fit for T-SQL
+
+SELECT dbo.udf_parse_string_to_column ('José~Sofía~Luis~Valentina~Carlos~Isabella~Juan', '~', 4);
+
+
+
+Q6: How to return the position of the Nth index of a string within a string?
+A6: This kind of complexity is a good fit for T-SQL
+
+SELECT dbo.udf_nth_index ('Lorem ipsum dolor sit amet, consectetur adipiscing elit', 'ip', 2);
+
+
+
+Q7: Where to learn Sublime Text basics?
+A7: This article make it easy to get started...
+https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
+
+
+
+Q8: How to change a string of words into proper case?
+A8: Depending on scale and complexity...
+
+Sublime Text
+1) Highlight your lines
+2) Edit > Convert Case > Title Case
+
+T-SQL scalar function:
+SELECT dbo.udf_proper_case ('george washington');
+
+
+
+Q9: How to format my code with Sublime Text?
+A9: View > Syntax > SQL (or just save the file as a .sql)
+
+
+
+Q10: How to find all occurrences of a string in multiple files at once?
+A10: Sublime Text > find > Find in files

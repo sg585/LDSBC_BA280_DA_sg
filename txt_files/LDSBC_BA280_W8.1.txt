@@ -1,0 +1,129 @@
+Q1: How to split text into lines? Use any of the techniques you learned.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+A1: See result below
+
+
+
+
+
+Q2: How to select multiple lines?
+
+Use the Sublime Text technique you learned and the results from Q1 and add this string to the front of each line "A2: Multiple lines selected - "
+
+Example...
+A2: Multiple lines selected - Lorem 
+A2: Multiple lines selected - ipsum
+A2: Multiple lines selected - dolor
+
+A2: See result below
+
+
+
+
+
+Q3: How to select every 3nd line? 
+
+Use the Sublime Text technique you learned and the results from Q1 and add this string to the front of each line 
+"A3: Every 3nd line selected - "
+
+
+Example...
+A3: Every 3nd line selected - Lorem
+ipsum
+dolor
+A3: Every 3nd line selected - sit
+
+A3: See result below
+
+
+
+
+
+Q4: How to remove certain types of characters from text? Use any of the techniques you learned.
+
+Generate your own random string:
+http://www.unit-conversion.info/texttools/random-string-generator/
+
+Use these parameters...
+
+Allowed chars:
+a bcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~!@#$%^&*()_+\][|}{';":/.,?><
+
+Number of strings:
+1
+
+Length: 
+200
+
+A4: Here is my original string...
+
+
+A4.1: Remove all non-alphanumeric characters and keep spaces
+
+
+A4.2: Remove all non-alpha characters and keep spaces
+
+
+A4.3: Remove all non-numeric characters and keep spaces
+
+
+A4.4: Remove all non-numeric characters
+
+
+
+
+
+Q5: How to return the 19th name from this string? Use the technique you learned.
+
+José|Sofía|Luis|Valentina|Carlos|Isabella|Juan|Camila|Jorge|Valeria|Pedro|Mariana|Jesús|Gabriela|Manuel|Sara|Santiago|Daniella|Sebastián|María José|Matías|Victoria|Nicolás|Martina|Samuel|Luciana|Alejandro|Ximena|Mateo|María Fernanda|Diego|Lucía|Benjamín|Natalia|Daniel|Catalina|Joaquín|Mía|Tomás|Fernanda|Gabriel|Nicole|Lucas|Julieta|Martín|Abril|Emmanuel|Samantha|Alexander|Andrea
+
+A5: See result below
+
+
+
+
+
+Q6: How to return the position of the 7th index of 'or' from this string? Use the technique you learned.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+A6: See result below
+
+
+
+
+
+Q7: Where to learn Sublime Text basics?
+A7: ???
+
+
+
+
+
+Q8: How to change this string of words into proper case? Use one of the techniques you learned.
+
+josé sofía luis valentina carlos isabella juan camila jorge valeria pedro mariana jesús gabriela manuel sara santiago daniella sebastián maría josé matías victoria nicolás martina samuel luciana alejandro ximena mateo maría fernanda diego lucía benjamín natalia daniel catalina joaquín mía tomás fernanda gabriel nicole lucas julieta martín abril emmanuel samantha alexander andrea
+
+Example:
+José Sofía
+
+A8: See result below
+
+
+
+
+
+Q9: How to format your SQL code with Sublime Text?
+A9: ???
+
+
+
+
+
+Q10: How many occurrences of the string "char" in these two files? Use Sublime Text.
+10 Basic Data Cleansing Techniques v1.0.txt
+LDSBC_BA280_W8.1.txt
+
+A10: ???

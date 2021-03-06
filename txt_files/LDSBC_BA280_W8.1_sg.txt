@@ -1,0 +1,1217 @@
+Q1: How to split text into lines? Use any of the techniques you learned.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+A1: See result below
+
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit,
+sed
+do
+eiusmod
+tempor
+incididunt
+ut
+labore
+et
+dolore
+magna
+aliqua.
+Ut
+enim
+ad
+minim
+veniam,
+quis
+nostrud
+exercitation
+ullamco
+laboris
+nisi
+ut
+aliquip
+ex
+ea
+commodo
+consequat.
+Duis
+aute
+irure
+dolor
+in
+reprehenderit
+in
+voluptate
+velit
+esse
+cillum
+dolore
+eu
+fugiat
+nulla
+pariatur.
+Excepteur
+sint
+occaecat
+cupidatat
+non
+proident,
+sunt
+in
+culpa
+qui
+officia
+deserunt
+mollit
+anim
+id
+est
+laborum.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit,
+sed
+do
+eiusmod
+tempor
+incididunt
+ut
+labore
+et
+dolore
+magna
+aliqua.
+Ut
+enim
+ad
+minim
+veniam,
+quis
+nostrud
+exercitation
+ullamco
+laboris
+nisi
+ut
+aliquip
+ex
+ea
+commodo
+consequat.
+Duis
+aute
+irure
+dolor
+in
+reprehenderit
+in
+voluptate
+velit
+esse
+cillum
+dolore
+eu
+fugiat
+nulla
+pariatur.
+Excepteur
+sint
+occaecat
+cupidatat
+non
+proident,
+sunt
+in
+culpa
+qui
+officia
+deserunt
+mollit
+anim
+id
+est
+laborum.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit,
+sed
+do
+eiusmod
+tempor
+incididunt
+ut
+labore
+et
+dolore
+magna
+aliqua.
+Ut
+enim
+ad
+minim
+veniam,
+quis
+nostrud
+exercitation
+ullamco
+laboris
+nisi
+ut
+aliquip
+ex
+ea
+commodo
+consequat.
+Duis
+aute
+irure
+dolor
+in
+reprehenderit
+in
+voluptate
+velit
+esse
+cillum
+dolore
+eu
+fugiat
+nulla
+pariatur.
+Excepteur
+sint
+occaecat
+cupidatat
+non
+proident,
+sunt
+in
+culpa
+qui
+officia
+deserunt
+mollit
+anim
+id
+est
+laborum.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit,
+sed
+do
+eiusmod
+tempor
+incididunt
+ut
+labore
+et
+dolore
+magna
+aliqua.
+Ut
+enim
+ad
+minim
+veniam,
+quis
+nostrud
+exercitation
+ullamco
+laboris
+nisi
+ut
+aliquip
+ex
+ea
+commodo
+consequat.
+Duis
+aute
+irure
+dolor
+in
+reprehenderit
+in
+voluptate
+velit
+esse
+cillum
+dolore
+eu
+fugiat
+nulla
+pariatur.
+Excepteur
+sint
+occaecat
+cupidatat
+non
+proident,
+sunt
+in
+culpa
+qui
+officia
+deserunt
+mollit
+anim
+id
+est
+laborum.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit,
+sed
+do
+eiusmod
+tempor
+incididunt
+ut
+labore
+et
+dolore
+magna
+aliqua.
+Ut
+enim
+ad
+minim
+veniam,
+quis
+nostrud
+exercitation
+ullamco
+laboris
+nisi
+ut
+aliquip
+ex
+ea
+commodo
+consequat.
+Duis
+aute
+irure
+dolor
+in
+reprehenderit
+in
+voluptate
+velit
+esse
+cillum
+dolore
+eu
+fugiat
+nulla
+pariatur.
+Excepteur
+sint
+occaecat
+cupidatat
+non
+proident,
+sunt
+in
+culpa
+qui
+officia
+deserunt
+mollit
+anim
+id
+est
+laborum.
+
+
+
+Q2: How to select multiple lines?
+
+Use the Sublime Text technique you learned and the results from Q1 and add this string to the front of each line "A2: Multiple lines selected - "
+
+Example...
+A2: Multiple lines selected - Lorem 
+A2: Multiple lines selected - ipsum
+A2: Multiple lines selected - dolor
+
+A2: See result below
+
+Multiple lines selected  - Lorem
+Multiple lines selected  - ipsum
+Multiple lines selected  - dolor
+Multiple lines selected  - sit
+Multiple lines selected  - amet,
+Multiple lines selected  - consectetur
+Multiple lines selected  - adipiscing
+Multiple lines selected  - elit,
+Multiple lines selected  - sed
+Multiple lines selected  - do
+Multiple lines selected  - eiusmod
+Multiple lines selected  - tempor
+Multiple lines selected  - incididunt
+Multiple lines selected  - ut
+Multiple lines selected  - labore
+Multiple lines selected  - et
+Multiple lines selected  - dolore
+Multiple lines selected  - magna
+Multiple lines selected  - aliqua.
+Multiple lines selected  - Ut
+Multiple lines selected  - enim
+Multiple lines selected  - ad
+Multiple lines selected  - minim
+Multiple lines selected  - veniam,
+Multiple lines selected  - quis
+Multiple lines selected  - nostrud
+Multiple lines selected  - exercitation
+Multiple lines selected  - ullamco
+Multiple lines selected  - laboris
+Multiple lines selected  - nisi
+Multiple lines selected  - ut
+Multiple lines selected  - aliquip
+Multiple lines selected  - ex
+Multiple lines selected  - ea
+Multiple lines selected  - commodo
+Multiple lines selected  - consequat.
+Multiple lines selected  - Duis
+Multiple lines selected  - aute
+Multiple lines selected  - irure
+Multiple lines selected  - dolor
+Multiple lines selected  - in
+Multiple lines selected  - reprehenderit
+Multiple lines selected  - in
+Multiple lines selected  - voluptate
+Multiple lines selected  - velit
+Multiple lines selected  - esse
+Multiple lines selected  - cillum
+Multiple lines selected  - dolore
+Multiple lines selected  - eu
+Multiple lines selected  - fugiat
+Multiple lines selected  - nulla
+Multiple lines selected  - pariatur.
+Multiple lines selected  - Excepteur
+Multiple lines selected  - sint
+Multiple lines selected  - occaecat
+Multiple lines selected  - cupidatat
+Multiple lines selected  - non
+Multiple lines selected  - proident,
+Multiple lines selected  - sunt
+Multiple lines selected  - in
+Multiple lines selected  - culpa
+Multiple lines selected  - qui
+Multiple lines selected  - officia
+Multiple lines selected  - deserunt
+Multiple lines selected  - mollit
+Multiple lines selected  - anim
+Multiple lines selected  - id
+Multiple lines selected  - est
+Multiple lines selected  - laborum.
+Multiple lines selected  - Lorem
+Multiple lines selected  - ipsum
+Multiple lines selected  - dolor
+Multiple lines selected  - sit
+Multiple lines selected  - amet,
+Multiple lines selected  - consectetur
+Multiple lines selected  - adipiscing
+Multiple lines selected  - elit,
+Multiple lines selected  - sed
+Multiple lines selected  - do
+Multiple lines selected  - eiusmod
+Multiple lines selected  - tempor
+Multiple lines selected  - incididunt
+Multiple lines selected  - ut
+Multiple lines selected  - labore
+Multiple lines selected  - et
+Multiple lines selected  - dolore
+Multiple lines selected  - magna
+Multiple lines selected  - aliqua.
+Multiple lines selected  - Ut
+Multiple lines selected  - enim
+Multiple lines selected  - ad
+Multiple lines selected  - minim
+Multiple lines selected  - veniam,
+Multiple lines selected  - quis
+Multiple lines selected  - nostrud
+Multiple lines selected  - exercitation
+Multiple lines selected  - ullamco
+Multiple lines selected  - laboris
+Multiple lines selected  - nisi
+Multiple lines selected  - ut
+Multiple lines selected  - aliquip
+Multiple lines selected  - ex
+Multiple lines selected  - ea
+Multiple lines selected  - commodo
+Multiple lines selected  - consequat.
+Multiple lines selected  - Duis
+Multiple lines selected  - aute
+Multiple lines selected  - irure
+Multiple lines selected  - dolor
+Multiple lines selected  - in
+Multiple lines selected  - reprehenderit
+Multiple lines selected  - in
+Multiple lines selected  - voluptate
+Multiple lines selected  - velit
+Multiple lines selected  - esse
+Multiple lines selected  - cillum
+Multiple lines selected  - dolore
+Multiple lines selected  - eu
+Multiple lines selected  - fugiat
+Multiple lines selected  - nulla
+Multiple lines selected  - pariatur.
+Multiple lines selected  - Excepteur
+Multiple lines selected  - sint
+Multiple lines selected  - occaecat
+Multiple lines selected  - cupidatat
+Multiple lines selected  - non
+Multiple lines selected  - proident,
+Multiple lines selected  - sunt
+Multiple lines selected  - in
+Multiple lines selected  - culpa
+Multiple lines selected  - qui
+Multiple lines selected  - officia
+Multiple lines selected  - deserunt
+Multiple lines selected  - mollit
+Multiple lines selected  - anim
+Multiple lines selected  - id
+Multiple lines selected  - est
+Multiple lines selected  - laborum.
+Multiple lines selected  - Lorem
+Multiple lines selected  - ipsum
+Multiple lines selected  - dolor
+Multiple lines selected  - sit
+Multiple lines selected  - amet,
+Multiple lines selected  - consectetur
+Multiple lines selected  - adipiscing
+Multiple lines selected  - elit,
+Multiple lines selected  - sed
+Multiple lines selected  - do
+Multiple lines selected  - eiusmod
+Multiple lines selected  - tempor
+Multiple lines selected  - incididunt
+Multiple lines selected  - ut
+Multiple lines selected  - labore
+Multiple lines selected  - et
+Multiple lines selected  - dolore
+Multiple lines selected  - magna
+Multiple lines selected  - aliqua.
+Multiple lines selected  - Ut
+Multiple lines selected  - enim
+Multiple lines selected  - ad
+Multiple lines selected  - minim
+Multiple lines selected  - veniam,
+Multiple lines selected  - quis
+Multiple lines selected  - nostrud
+Multiple lines selected  - exercitation
+Multiple lines selected  - ullamco
+Multiple lines selected  - laboris
+Multiple lines selected  - nisi
+Multiple lines selected  - ut
+Multiple lines selected  - aliquip
+Multiple lines selected  - ex
+Multiple lines selected  - ea
+Multiple lines selected  - commodo
+Multiple lines selected  - consequat.
+Multiple lines selected  - Duis
+Multiple lines selected  - aute
+Multiple lines selected  - irure
+Multiple lines selected  - dolor
+Multiple lines selected  - in
+Multiple lines selected  - reprehenderit
+Multiple lines selected  - in
+Multiple lines selected  - voluptate
+Multiple lines selected  - velit
+Multiple lines selected  - esse
+Multiple lines selected  - cillum
+Multiple lines selected  - dolore
+Multiple lines selected  - eu
+Multiple lines selected  - fugiat
+Multiple lines selected  - nulla
+Multiple lines selected  - pariatur.
+Multiple lines selected  - Excepteur
+Multiple lines selected  - sint
+Multiple lines selected  - occaecat
+Multiple lines selected  - cupidatat
+Multiple lines selected  - non
+Multiple lines selected  - proident,
+Multiple lines selected  - sunt
+Multiple lines selected  - in
+Multiple lines selected  - culpa
+Multiple lines selected  - qui
+Multiple lines selected  - officia
+Multiple lines selected  - deserunt
+Multiple lines selected  - mollit
+Multiple lines selected  - anim
+Multiple lines selected  - id
+Multiple lines selected  - est
+Multiple lines selected  - laborum.
+Multiple lines selected  - Lorem
+Multiple lines selected  - ipsum
+Multiple lines selected  - dolor
+Multiple lines selected  - sit
+Multiple lines selected  - amet,
+Multiple lines selected  - consectetur
+Multiple lines selected  - adipiscing
+Multiple lines selected  - elit,
+Multiple lines selected  - sed
+Multiple lines selected  - do
+Multiple lines selected  - eiusmod
+Multiple lines selected  - tempor
+Multiple lines selected  - incididunt
+Multiple lines selected  - ut
+Multiple lines selected  - labore
+Multiple lines selected  - et
+Multiple lines selected  - dolore
+Multiple lines selected  - magna
+Multiple lines selected  - aliqua.
+Multiple lines selected  - Ut
+Multiple lines selected  - enim
+Multiple lines selected  - ad
+Multiple lines selected  - minim
+Multiple lines selected  - veniam,
+Multiple lines selected  - quis
+Multiple lines selected  - nostrud
+Multiple lines selected  - exercitation
+Multiple lines selected  - ullamco
+Multiple lines selected  - laboris
+Multiple lines selected  - nisi
+Multiple lines selected  - ut
+Multiple lines selected  - aliquip
+Multiple lines selected  - ex
+Multiple lines selected  - ea
+Multiple lines selected  - commodo
+Multiple lines selected  - consequat.
+Multiple lines selected  - Duis
+Multiple lines selected  - aute
+Multiple lines selected  - irure
+Multiple lines selected  - dolor
+Multiple lines selected  - in
+Multiple lines selected  - reprehenderit
+Multiple lines selected  - in
+Multiple lines selected  - voluptate
+Multiple lines selected  - velit
+Multiple lines selected  - esse
+Multiple lines selected  - cillum
+Multiple lines selected  - dolore
+Multiple lines selected  - eu
+Multiple lines selected  - fugiat
+Multiple lines selected  - nulla
+Multiple lines selected  - pariatur.
+Multiple lines selected  - Excepteur
+Multiple lines selected  - sint
+Multiple lines selected  - occaecat
+Multiple lines selected  - cupidatat
+Multiple lines selected  - non
+Multiple lines selected  - proident,
+Multiple lines selected  - sunt
+Multiple lines selected  - in
+Multiple lines selected  - culpa
+Multiple lines selected  - qui
+Multiple lines selected  - officia
+Multiple lines selected  - deserunt
+Multiple lines selected  - mollit
+Multiple lines selected  - anim
+Multiple lines selected  - id
+Multiple lines selected  - est
+Multiple lines selected  - laborum.
+Multiple lines selected  - Lorem
+Multiple lines selected  - ipsum
+Multiple lines selected  - dolor
+Multiple lines selected  - sit
+Multiple lines selected  - amet,
+Multiple lines selected  - consectetur
+Multiple lines selected  - adipiscing
+Multiple lines selected  - elit,
+Multiple lines selected  - sed
+Multiple lines selected  - do
+Multiple lines selected  - eiusmod
+Multiple lines selected  - tempor
+Multiple lines selected  - incididunt
+Multiple lines selected  - ut
+Multiple lines selected  - labore
+Multiple lines selected  - et
+Multiple lines selected  - dolore
+Multiple lines selected  - magna
+Multiple lines selected  - aliqua.
+Multiple lines selected  - Ut
+Multiple lines selected  - enim
+Multiple lines selected  - ad
+Multiple lines selected  - minim
+Multiple lines selected  - veniam,
+Multiple lines selected  - quis
+Multiple lines selected  - nostrud
+Multiple lines selected  - exercitation
+Multiple lines selected  - ullamco
+Multiple lines selected  - laboris
+Multiple lines selected  - nisi
+Multiple lines selected  - ut
+Multiple lines selected  - aliquip
+Multiple lines selected  - ex
+Multiple lines selected  - ea
+Multiple lines selected  - commodo
+Multiple lines selected  - consequat.
+Multiple lines selected  - Duis
+Multiple lines selected  - aute
+Multiple lines selected  - irure
+Multiple lines selected  - dolor
+Multiple lines selected  - in
+Multiple lines selected  - reprehenderit
+Multiple lines selected  - in
+Multiple lines selected  - voluptate
+Multiple lines selected  - velit
+Multiple lines selected  - esse
+Multiple lines selected  - cillum
+Multiple lines selected  - dolore
+Multiple lines selected  - eu
+Multiple lines selected  - fugiat
+Multiple lines selected  - nulla
+Multiple lines selected  - pariatur.
+Multiple lines selected  - Excepteur
+Multiple lines selected  - sint
+Multiple lines selected  - occaecat
+Multiple lines selected  - cupidatat
+Multiple lines selected  - non
+Multiple lines selected  - proident,
+Multiple lines selected  - sunt
+Multiple lines selected  - in
+Multiple lines selected  - culpa
+Multiple lines selected  - qui
+Multiple lines selected  - officia
+Multiple lines selected  - deserunt
+Multiple lines selected  - mollit
+Multiple lines selected  - anim
+Multiple lines selected  - id
+Multiple lines selected  - est
+Multiple lines selected  - laborum.
+
+
+
+Q3: How to select every 3nd line? 
+
+Use the Sublime Text technique you learned and the results from Q1 and add this string to the front of each line 
+"A3: Every 3nd line selected - "
+
+
+Example...
+A3: Every 3nd line selected - Lorem
+ipsum
+dolor
+A3: Every 3nd line selected - sit
+
+A3: See result below
+
+Every 3rd line selected - Lorem
+ipsum
+dolor
+Every 3rd line selected - sit
+amet,
+consectetur
+Every 3rd line selected - adipiscing
+elit,
+sed
+Every 3rd line selected - do
+eiusmod
+tempor
+Every 3rd line selected - incididunt
+ut
+labore
+Every 3rd line selected - et
+dolore
+magna
+Every 3rd line selected - aliqua.
+Ut
+enim
+Every 3rd line selected - ad
+minim
+veniam,
+Every 3rd line selected - quis
+nostrud
+exercitation
+Every 3rd line selected - ullamco
+laboris
+nisi
+Every 3rd line selected - ut
+aliquip
+ex
+Every 3rd line selected - ea
+commodo
+consequat.
+Every 3rd line selected - Duis
+aute
+irure
+Every 3rd line selected - dolor
+in
+reprehenderit
+Every 3rd line selected - in
+voluptate
+velit
+Every 3rd line selected - esse
+cillum
+dolore
+Every 3rd line selected - eu
+fugiat
+nulla
+Every 3rd line selected - pariatur.
+Excepteur
+sint
+Every 3rd line selected - occaecat
+cupidatat
+non
+Every 3rd line selected - proident,
+sunt
+in
+Every 3rd line selected - culpa
+qui
+officia
+Every 3rd line selected - deserunt
+mollit
+anim
+Every 3rd line selected - id
+est
+laborum.
+Every 3rd line selected - Lorem
+ipsum
+dolor
+Every 3rd line selected - sit
+amet,
+consectetur
+Every 3rd line selected - adipiscing
+elit,
+sed
+Every 3rd line selected - do
+eiusmod
+tempor
+Every 3rd line selected - incididunt
+ut
+labore
+Every 3rd line selected - et
+dolore
+magna
+Every 3rd line selected - aliqua.
+Ut
+enim
+Every 3rd line selected - ad
+minim
+veniam,
+Every 3rd line selected - quis
+nostrud
+exercitation
+Every 3rd line selected - ullamco
+laboris
+nisi
+Every 3rd line selected - ut
+aliquip
+ex
+Every 3rd line selected - ea
+commodo
+consequat.
+Every 3rd line selected - Duis
+aute
+irure
+Every 3rd line selected - dolor
+in
+reprehenderit
+Every 3rd line selected - in
+voluptate
+velit
+Every 3rd line selected - esse
+cillum
+dolore
+Every 3rd line selected - eu
+fugiat
+nulla
+Every 3rd line selected - pariatur.
+Excepteur
+sint
+Every 3rd line selected - occaecat
+cupidatat
+non
+Every 3rd line selected - proident,
+sunt
+in
+Every 3rd line selected - culpa
+qui
+officia
+Every 3rd line selected - deserunt
+mollit
+anim
+Every 3rd line selected - id
+est
+laborum.
+Every 3rd line selected - Lorem
+ipsum
+dolor
+Every 3rd line selected - sit
+amet,
+consectetur
+Every 3rd line selected - adipiscing
+elit,
+sed
+Every 3rd line selected - do
+eiusmod
+tempor
+Every 3rd line selected - incididunt
+ut
+labore
+Every 3rd line selected - et
+dolore
+magna
+Every 3rd line selected - aliqua.
+Ut
+enim
+Every 3rd line selected - ad
+minim
+veniam,
+Every 3rd line selected - quis
+nostrud
+exercitation
+Every 3rd line selected - ullamco
+laboris
+nisi
+Every 3rd line selected - ut
+aliquip
+ex
+Every 3rd line selected - ea
+commodo
+consequat.
+Every 3rd line selected - Duis
+aute
+irure
+Every 3rd line selected - dolor
+in
+reprehenderit
+Every 3rd line selected - in
+voluptate
+velit
+Every 3rd line selected - esse
+cillum
+dolore
+Every 3rd line selected - eu
+fugiat
+nulla
+Every 3rd line selected - pariatur.
+Excepteur
+sint
+Every 3rd line selected - occaecat
+cupidatat
+non
+Every 3rd line selected - proident,
+sunt
+in
+Every 3rd line selected - culpa
+qui
+officia
+Every 3rd line selected - deserunt
+mollit
+anim
+Every 3rd line selected - id
+est
+laborum.
+Every 3rd line selected - Lorem
+ipsum
+dolor
+Every 3rd line selected - sit
+amet,
+consectetur
+Every 3rd line selected - adipiscing
+elit,
+sed
+Every 3rd line selected - do
+eiusmod
+tempor
+Every 3rd line selected - incididunt
+ut
+labore
+Every 3rd line selected - et
+dolore
+magna
+Every 3rd line selected - aliqua.
+Ut
+enim
+Every 3rd line selected - ad
+minim
+veniam,
+Every 3rd line selected - quis
+nostrud
+exercitation
+Every 3rd line selected - ullamco
+laboris
+nisi
+Every 3rd line selected - ut
+aliquip
+ex
+Every 3rd line selected - ea
+commodo
+consequat.
+Every 3rd line selected - Duis
+aute
+irure
+Every 3rd line selected - dolor
+in
+reprehenderit
+Every 3rd line selected - in
+voluptate
+velit
+Every 3rd line selected - esse
+cillum
+dolore
+Every 3rd line selected - eu
+fugiat
+nulla
+Every 3rd line selected - pariatur.
+Excepteur
+sint
+Every 3rd line selected - occaecat
+cupidatat
+non
+Every 3rd line selected - proident,
+sunt
+in
+Every 3rd line selected - culpa
+qui
+officia
+Every 3rd line selected - deserunt
+mollit
+anim
+Every 3rd line selected - id
+est
+laborum.
+Every 3rd line selected - Lorem
+ipsum
+dolor
+Every 3rd line selected - sit
+amet,
+consectetur
+Every 3rd line selected - adipiscing
+elit,
+sed
+Every 3rd line selected - do
+eiusmod
+tempor
+Every 3rd line selected - incididunt
+ut
+labore
+Every 3rd line selected - et
+dolore
+magna
+Every 3rd line selected - aliqua.
+Ut
+enim
+Every 3rd line selected - ad
+minim
+veniam,
+Every 3rd line selected - quis
+nostrud
+exercitation
+Every 3rd line selected - ullamco
+laboris
+nisi
+Every 3rd line selected - ut
+aliquip
+ex
+Every 3rd line selected - ea
+commodo
+consequat.
+Every 3rd line selected - Duis
+aute
+irure
+Every 3rd line selected - dolor
+in
+reprehenderit
+Every 3rd line selected - in
+voluptate
+velit
+Every 3rd line selected - esse
+cillum
+dolore
+Every 3rd line selected - eu
+fugiat
+nulla
+Every 3rd line selected - pariatur.
+Excepteur
+sint
+Every 3rd line selected - occaecat
+cupidatat
+non
+Every 3rd line selected - proident,
+sunt
+in
+Every 3rd line selected - culpa
+qui
+officia
+Every 3rd line selected - deserunt
+mollit
+anim
+Every 3rd line selected - id
+est
+laborum.
+
+
+
+Q4: How to remove certain types of characters from text? Use any of the techniques you learned.
+
+Generate your own random string:
+http://www.unit-conversion.info/texttools/random-string-generator/
+
+Use these parameters...
+
+Allowed chars:
+a bcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~!@#$%^&*()_+\][|}{';":/.,?><
+
+Number of strings:
+1
+
+Length: 
+200
+
+A4: Here is my original string...
+sAo/R{]\!&ld/2\pn]NV.B9GS*IMJ re\q>t}$<feSO%BK98?<K#is7xj/%) <hDu\iW"GSw@H~GPX uaEmHjekt5X dc!I}'y+1]{1J]*by@u#?#ChgUZ156dR[gBfs7bwW|er[SVNsKED9?O~9S2lqy<G!_\}(s,fxamW>%WANHhZ~[h#LT[oJkTz>g4\yh+mRxn'*
+
+A4.1: Remove all non-alphanumeric characters and keep spaces
+sAoRld2pnNVB9GSIMJ reqtfeSOBK98Kis7xj hDuiWGSwHGPX uaEmHjekt5X dcIy11JbyuChgUZ156dRgBfs7bwWerSVNsKED9O9S2lqyGsfxamWWANHhZhLToJkTzg4yhmRxn
+
+A4.2: Remove all non-alpha characters and keep spaces
+sAoRldpnNVBGSIMJ reqtfeSOBKKisxj hDuiWGSwHGPX uaEmHjektX dcIyJbyuChgUZdRgBfsbwWerSVNsKEDOSlqyGsfxamWWANHhZhLToJkTzgyhmRxn
+
+A4.3: Remove all non-numeric characters and keep spaces
+29 987  5 1115679924
+
+A4.4: Remove all non-numeric characters
+2998751115679924
+
+
+
+
+Q5: How to return the 19th name from this string? Use the technique you learned.
+
+José|Sofía|Luis|Valentina|Carlos|Isabella|Juan|Camila|Jorge|Valeria|Pedro|Mariana|Jesús|Gabriela|Manuel|Sara|Santiago|Daniella|Sebastián|María José|Matías|Victoria|Nicolás|Martina|Samuel|Luciana|Alejandro|Ximena|Mateo|María Fernanda|Diego|Lucía|Benjamín|Natalia|Daniel|Catalina|Joaquín|Mía|Tomás|Fernanda|Gabriel|Nicole|Lucas|Julieta|Martín|Abril|Emmanuel|Samantha|Alexander|Andrea
+
+A5: See result below
+Sebastián
+
+
+
+
+Q6: How to return the position of the 7th index of 'or' from this string? Use the technique you learned.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+A6: See result below
+77
+
+
+
+
+Q7: Where to learn Sublime Text basics?
+A7: https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
+
+
+
+
+
+Q8: How to change this string of words into proper case? Use one of the techniques you learned.
+
+josé sofía luis valentina carlos isabella juan camila jorge valeria pedro mariana jesús gabriela manuel sara santiago daniella sebastián maría josé matías victoria nicolás martina samuel luciana alejandro ximena mateo maría fernanda diego lucía benjamín natalia daniel catalina joaquín mía tomás fernanda gabriel nicole lucas julieta martín abril emmanuel samantha alexander andrea
+
+Example:
+José Sofía
+
+A8: See result below
+José Sofía Luis Valentina Carlos Isabella Juan Camila Jorge Valeria Pedro Mariana Jesús Gabriela Manuel Sara Santiago Daniella Sebastián María José Matías Victoria Nicolás Martina Samuel Luciana Alejandro Ximena Mateo María Fernanda Diego Lucía Benjamín Natalia Daniel Catalina Joaquín Mía Tomás Fernanda Gabriel Nicole Lucas Julieta Martín Abril Emmanuel Samantha Alexander Andrea
+
+
+
+
+Q9: How to format your SQL code with Sublime Text?
+A9: View > Syntax > SQL (or just save the file as a .sql)
+
+
+
+
+
+Q10: How many occurrences of the string "char" in these two files? Use Sublime Text.
+10 Basic Data Cleansing Techniques v1.0.txt
+LDSBC_BA280_W8.1.txt
+
+A10: 
+Searching 3 files for "char" (regex)
+
+C:\Users\sandragee\Downloads\10 Basic Data Cleansing Techniques v1.0.txt:
+   55  
+   56  
+   57: Q4: How to remove certain types of characters from text?
+   58  A4: It depends on scale and complexity
+   59  
+   ..
+   67  3) Type in the expression
+   68  
+   69: Remove all non-alphanumeric characters and keep spaces
+   70  [^A-Za-z0-9 ]
+   71  
+   72: Remove all non-alpha characters and keep spaces
+   73  [^A-Za-z ]
+   74  
+   75: Remove all non-numeric characters and keep spaces
+   76  [^0-9 ]
+   77  
+
+C:\Users\sandragee\Downloads\LDSBC_BA280_W8.1.txt:
+   42  
+   43  
+   44: Q4: How to remove certain types of characters from text? Use any of the techniques you learned.
+   45  
+   46  Generate your own random string:
+   ..
+   49  Use these parameters...
+   50  
+   51: Allowed chars:
+   52  a bcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~!@#$%^&*()_+\][|}{';":/.,?><
+   53  
+   ..
+   61  
+   62  
+   63: A4.1: Remove all non-alphanumeric characters and keep spaces
+   64  
+   65  
+   66: A4.2: Remove all non-alpha characters and keep spaces
+   67  
+   68  
+   69: A4.3: Remove all non-numeric characters and keep spaces
+   70  
+   71  
+   72: A4.4: Remove all non-numeric characters
+   73  
+   74  
+   ..
+  123  
+  124  
+  125: Q10: How many occurrences of the string "char" in these two files? Use Sublime Text.
+  126  10 Basic Data Cleansing Techniques v1.0.txt
+  127  LDSBC_BA280_W8.1.txt
+
+11 matches across 2 files
