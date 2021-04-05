@@ -1,0 +1,50 @@
+Data cleaning steps using the train.csv file provided:
+
+1) Eliminate all sales except for normal sales condition variable (SaleCondition=Normal)
+   ~ Took 1460 records down to 1198
+2) Created a calculated column for Total Square Footage = (Total Bsmt Sf + Gr liv Area)
+
+3) Created a calculated column YN (01) if there is a Garage
+
+4) Created a calculated column for number of bathrooms = (above ground + basement)
+
+5) Assigned number value to the neighborhood in a lookup table
+Blmngtn	1
+Blueste	2
+BrDale	3
+BrkSide	4
+ClearCr	5
+CollgCr	6
+Crawfor	7
+Edwards	8
+Gilbert	9
+IDOTRR	10
+MeadowV	11
+Mitchel	12
+NAmes	13
+NoRidge	14
+NPkVill	15
+NridgHt	16
+NWAmes	17
+OldTown	18
+Sawyer	19
+SawyerW	20
+Somerst	21
+StoneBr	22
+SWISU	23
+Timber	24
+Veenker	25
+
+6) Assigned number value to the Heating in a lookup table
+Floor	1
+GasA	2
+GasW	3
+Grav	4
+OthW	5
+Wall	6
+
+7) Changed YN in Central Air to (1 or 0) numeric value
+8) Removed ID field
+9) Recode number of fireplaces into YN (1 or 0) field
+10) Ignored remaining independent variables other than the 11 I made or picked
+11) Saved as .xlsx
